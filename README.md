@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sachin Dev 👋
+<br/>
 
+![](https://komarev.com/ghpvc/?username=heysachin)
+![](https://hit.yhype.me/github/profile?user_id=20176458)
 <!--
 **heysachin/heysachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
