@@ -25,7 +25,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-          filename: metrics.plugin.github-metrics.svg
   leetcode-metrics:
     runs-on: ubuntu-latest
     steps:
