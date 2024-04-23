@@ -36,3 +36,5 @@
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=heysachin&show_icons=true)
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=heysachin&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 ![streak](https://streak-stats.demolab.com/?user=heysachin&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+
+![Leetcode](/metrics.plugin.leetcode.svg)
