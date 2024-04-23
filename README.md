@@ -30,14 +30,9 @@
 - **LinkedIn:** [Sachin Dev](https://linkedin.com/in/sachin-dev)
 - **Email:** [hello@sachindev.com](mailto:hello@sachindev.com)
 - **Kaggle:** [My Kaggle Profile](https://www.kaggle.com/devilsknight)
+## Feel free to ping me if you think we can collaborate on something interesting!
 
+![Metrics](/github-metrics.svg)
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=heysachin&show_icons=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=heysachin&no-bg=true&no-frame=true&column=4&theme=algolia)
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=heysachin&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-
-![streak](https://github-contributor-stats.vercel.app/api?username=heysachin&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![streak](https://streak-stats.demolab.com/?user=heysachin&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
-
-### Check out my latest projects and feel free to ping me if you think we can collaborate on something interesting!
-
-![](https://hit.yhype.me/github/profile?user_id=20176458)
