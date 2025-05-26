@@ -1,7 +1,7 @@
 # Hello, I'm Sachin Dev! 👋 ![Profile views](https://komarev.com/ghpvc/?username=heysachin)
 
 ## 💼 Current Role
-**Senior Backend Engineer [@CRED](https://cred.club)** - I'm part of the Bankstack team, working on Fintech!
+**SWE [@Google Search](https://google.com)**
 
 ## 🛠 Skills
 - **Languages & Frameworks:** Java, Kotlin, Python, Spring Boot, React, TypeScript
@@ -13,6 +13,7 @@
 - Latest trends in artificial intelligence and machine learning.
 
 ## 📈 Past Experiences
+- **Senior Backend Engineer at Cred** (2022-2024)
 - **Product Engineer III at Udaan** (2019-2022): Built the performance, display and subscription ads, bringing in a revenue of 32 million INR per month. 
 - **Team Lead & Co-Founder at Tricodia Inc** (2016-2019): Led a team to successfully deliver multiple projects, maintaining 100% delivery rate.
 
