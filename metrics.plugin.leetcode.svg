@@ -68,8 +68,8 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x106</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x89</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x71</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x64</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x63</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x63</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x55</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x54</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x52</span></div>
