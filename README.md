@@ -1,81 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=2980B9&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Sachin+Dev+%F0%9F%91%8B;SWE+%40+Google+Search;Backend+%E2%80%A2+Distributed+Systems+%E2%80%A2+AI" alt="Typing intro" />
+<h1>Sachin Dev</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Google+Search+%C2%B7+Bangalore;Backend+%C2%B7+Distributed+Systems+%C2%B7+Applied+AI;%E2%80%9CSolving+complex+problems+elegantly.%E2%80%9D" alt="Software Engineer at Google Search — solving complex problems elegantly" />
 
 <p>
-  <a href="https://linkedin.com/in/sachin-dev"><img src="https://img.shields.io/badge/LinkedIn-Sachin%20Dev-2980B9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hello@sachindev.com"><img src="https://img.shields.io/badge/Email-hello%40sachindev.com-27AE60?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.kaggle.com/devilsknight"><img src="https://img.shields.io/badge/Kaggle-devilsknight-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <img src="https://komarev.com/ghpvc/?username=heysachin&style=for-the-badge&color=2980B9&label=Profile+Views" alt="Profile views" />
+  <a href="https://sachindev.com"><img src="https://img.shields.io/badge/sachindev.com-2563EB?style=flat-square&logo=safari&logoColor=white&labelColor=2563EB" alt="Website" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sachin-dev"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181B" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:hello@sachindev.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white&labelColor=18181B" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/devilsknight"><img src="https://img.shields.io/badge/Kaggle-18181B?style=flat-square&logo=kaggle&logoColor=white&labelColor=18181B" alt="Kaggle" /></a>
 </p>
+
+<sub><img src="https://komarev.com/ghpvc/?username=heysachin&style=flat-square&color=2563EB&label=profile%20views&labelColor=18181B" alt="Profile views" /></sub>
 
 </div>
 
----
+<br />
 
 ### About
 
-Software engineer at **Google Search**, previously building backend systems at **Cred** and shipping ad revenue at **Udaan**. I like distributed systems, low-latency services, and the occasional ML rabbit hole. Outside of work: pottery, photography, and modding things that probably shouldn't be modded.
+Backend engineer in Bangalore, currently shipping for **Google Search**. Before Google, I built **Bankstack** at CRED — launching Flash, the first revenue-generating product on the stack — and scaled **Udaan's ads platform** from half a million to thirty million rupees a month. I care about distributed systems that are correct, fast, and operable.
+
+### Now
+
+- **Shipping** search infrastructure at Google
+- **Studying** scalable system design and applied ML / AI
+- **Off-screen** — pottery, photography, the occasional EV mod
 
 ---
 
-### 🧰 Tech I work with
+### Tech I reach for
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,react,ts,grpc,redis,kubernetes,gcp&perline=10" alt="Tech stack" />
-
-<sub>Java · Kotlin · Python · Spring Boot · React · TypeScript · gRPC · Redis · Kubernetes · GCP</sub>
-
-<br /><br />
-
-<sub><b>Also fluent in:</b> SQL · DynamoDB · CosmosDB · Cloud Bigtable · Solr · Grafana · Coralogix</sub>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,react,ts,redis,kubernetes,gcp&perline=9" alt="Daily drivers" />
 
 </div>
 
----
+<sub><b>Daily drivers</b> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Kotlin &nbsp;·&nbsp; Python &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GCP</sub>
 
-### 📈 Experience
-
-| Role | Company | Years |
-| :--- | :--- | :--- |
-| **Software Engineer** | Google Search | 2024 – Present |
-| Senior Backend Engineer | Cred | 2022 – 2024 |
-| Product Engineer III | Udaan | 2019 – 2022 |
-| Team Lead & Co-Founder | Tricodia Inc | 2016 – 2019 |
-
-<sub>At Udaan: built performance, display, and subscription ads — <b>₹32M/month</b> revenue. At Tricodia: led delivery on every project shipped (100% on-time).</sub>
+<sub><b>Also fluent in</b> &nbsp;·&nbsp; gRPC &nbsp;·&nbsp; DynamoDB &nbsp;·&nbsp; CosmosDB &nbsp;·&nbsp; Cloud Bigtable &nbsp;·&nbsp; Apache Solr &nbsp;·&nbsp; Grafana &nbsp;·&nbsp; Coralogix &nbsp;·&nbsp; PyTorch</sub>
 
 ---
 
-### 🏆 Highlights
+### Selected work
 
-- 🥈 **Kaggle Kernel of the Month** runner-up — Jan 2019
-- 🎓 **PyTorch Scholarship Nanodegree** — sponsored by Facebook
-- 🚀 **SV.Co incubation** — $20K+ in cloud credits
-- 🌱 Currently going deep on **system design at scale** and applied **ML / AI**
+**Software Engineer · Google Search** &nbsp;<sub>2024 – Present</sub>  
+Search infrastructure at Google scale.
+
+**Senior Backend Engineer IV · CRED · Bankstack** &nbsp;<sub>2022 – 2024</sub>  
+Launched **Flash** — the first revenue-generating product on the Bankstack stack. Designed composite revolving-credit + term-loan products and an auditable accruals-as-a-service layer.
+
+**Product Engineer III · Udaan · Ads & Monetisation** &nbsp;<sub>2019 – 2022</sub>  
+Scaled ad revenue from **₹0.5M → ₹30M / month** over three years. Onboarded thousands of advertisers with a **45% repeat rate**.
+
+**Team Lead & Co-Founder · Tricodia Inc** &nbsp;<sub>2016 – 2019</sub>  
+Led delivery across every project the team shipped — **100% on-time**.
 
 ---
 
-### 📊 GitHub, in numbers
+### Recognition
+
+- Kaggle Kernel of the Month — runner-up &nbsp;<sub>Jan 2019</sub>
+- PyTorch Scholarship Nanodegree &nbsp;<sub>Facebook-sponsored</sub>
+- SV.Co incubation &nbsp;<sub>$20K+ in cloud credits</sub>
+
+---
+
+### GitHub, in numbers
 
 <div align="center">
 
 <a href="https://github.com/heysachin">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heysachin&show_icons=true&hide_border=true&bg_color=00000000&title_color=2980B9&icon_color=27AE60&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=heysachin&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=18181B&hide=issues" alt="GitHub stats" />
 </a>
 <a href="https://github.com/heysachin">
-  <img height="165" src="https://streak-stats.demolab.com/?user=heysachin&hide_border=true&background=00000000&stroke=2980B9&ring=27AE60&fire=27AE60&currStreakNum=2980B9&sideNums=2980B9&currStreakLabel=2980B9&sideLabels=2980B9&dates=2980B9" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=heysachin&hide_border=true&background=00000000&stroke=18181B&ring=2563EB&fire=2563EB&currStreakNum=2563EB&sideNums=18181B&currStreakLabel=2563EB&sideLabels=18181B&dates=18181B" alt="GitHub streak" />
 </a>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heysachin&bg_color=00000000&color=2980B9&line=2980B9&point=27AE60&area_color=2980B9&area=true&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heysachin&bg_color=00000000&color=18181B&line=2563EB&point=2563EB&area_color=2563EB&area=true&hide_border=true" alt="Activity graph" />
 
 </div>
 
 <details>
-<summary><b>Full metrics</b></summary>
+<summary><sub><b>Full metrics</b></sub></summary>
 
 <div align="center">
 
@@ -91,6 +104,6 @@ Software engineer at **Google Search**, previously building backend systems at *
 
 <div align="center">
 
-**Open to interesting collaborations** — drop a note if you're building something fun.
+<sub>Find me at <a href="https://sachindev.com"><b>sachindev.com</b></a> · open to interesting collaborations.</sub>
 
 </div>
